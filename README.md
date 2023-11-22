@@ -2,7 +2,7 @@
 
 This repository contains a reference implementation of the algorithms for the paper:
 
-Scalable and Effective Conductance-based Graph Clustering
+Scalable and Effective Conductance-based Graph Clustering. AAAI2023
 
 ## Environment Setup
 
